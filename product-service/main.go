@@ -48,5 +48,5 @@ func main() {
 	r.POST("/products", CreateProductHandler)
 
 	
-	r.Run(":8084")
+	r.Run(":8087")
 }
